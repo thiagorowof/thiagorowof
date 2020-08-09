@@ -36,7 +36,7 @@ I am currently working as Informata's front-end team manager.
 - Containers and somethings related to devops
 - Firebase
 - Unity / Unreal
-- Figma / Xd (and adobe suit tools)
+- Figma / Xd (and adobe suite)
 - And a lote more...
 
 ![Thiagorowof github stats](https://github-readme-stats.vercel.app/api?username=thiagorowof&count_private=true&show_icons=true&theme=radical)
