@@ -1,4 +1,4 @@
-## :wine_glass: Thiago de Albuquerque Dantas - Senior lead developer and problem solver
+## 🪪 Thiago de Albuquerque Dantas - Engineering Team Manager, M.Sc. Computer Engineering Student and problem solver
 
 I am a project manager, developer and designer of games, system and applications based in Recife, Brazil, with a background in computer science, graduate in project management.
 I have several certificates in the area of technology and design (game design, applications, websites, computer graphics and management).
@@ -12,7 +12,7 @@ I have passages in companies in the IT industry such as Jornal do Commercio, I2 
 
 Passionate about music and ballroom dancing.
 
-I am currently working as Informata's front-end team manager.
+I am currently working as Informata's front-end team manager and i'm also a M.Sc. Student at PPGEC/UPE (computer engineering).
 
 
 ## :phone: Information
@@ -33,8 +33,8 @@ I am currently working as Informata's front-end team manager.
 - Jira and Management tools
 - ReactJS / React Native
 - Flutter
-- Containers and somethings related to devops
-- Firebase
+- Containers, pipelines and somethings related to devops
+- Cloud and backend with Firebase and Azure
 - Unity / Unreal
 - Figma / Xd (and adobe suite)
 - And a lote more...
